@@ -10,8 +10,10 @@ This script retrieves archived URLs from the Wayback Machine for a specified dom
 - Handles user input via command-line arguments or interactive input.
 
 ## Usage
-
-# Prerequisites
+```bash
+python waybackurlWrapperV1.py
+```
+## Prerequisites
 - Python 3.x
 - requests library (install using pip install requests if needed)
 
