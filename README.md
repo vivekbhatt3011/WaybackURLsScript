@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/527f1f60-aca1-4840-86b9-7dceaf6fd550)
+
 ## Description
 
 This script retrieves archived URLs from the Wayback Machine for a specified domain. It extracts and saves the URLs into a timestamped text file, providing a useful way to analyze historical snapshots of a website.
